@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Lexend:wght@100..900&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+    text-align: center;
+    font-family: "Lexend", sans-serif;
+    font-size: 30px;
+    color: rgb(27, 27, 27);
+    background-color: rgb(219, 219, 219);
+}
+#btndividir{
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+    background-color: rgb(255, 255, 94);
+}
+#btnmultiplicar{
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+    background-color: rgb(255, 255, 94);
+}
+#btnsubtrair{
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+    background-color: rgb(255, 255, 94);
+}
+#btnsomar{
+    font-size: 40px;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+    background-color: rgb(255, 255, 94);
+}
+#segundovalor{
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+}
+#primeirovalor{
+    font-size: 20px;
+    width: 100px;
+    text-align: center;
+    border-radius: 20px;
+    font-family: "Lexend", sans-serif;
+}

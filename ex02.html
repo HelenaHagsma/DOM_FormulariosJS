@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IMC</title>
+    <script type="text/javascript" src="js/ex02.js"></script>
+    <link rel="stylesheet" href="css/ex02.css" />
+  </head>
+  <body>
+    <h1>Calcule seu Índice de Massa Corporal - IMC</h1>
+    <label for="peso">Digite seu peso: </label>
+    <input type="text" id="peso" />
+    <br />
+    <br />
+    <label for="altura">Digite sua altura: </label>
+    <input type="text" id="altura" />
+    <br />
+    <br />
+    <input
+      type="button"
+      id="btncalcular"
+      value="Calcular"
+      onclick="calcular()"
+    />
+    <br />
+    <br />
+    <div id="resultado"></div>
+    <div id="feedback"></div>
+  </body>
+</html>
